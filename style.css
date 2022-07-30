@@ -1,0 +1,7 @@
+.countdown{
+    text-align: center;
+    background: linear-gradient(to right,rgb(255, 136, 0),green);
+    margin:200px ;
+    padding:50px ;
+    color:rgb(4, 4, 71);
+}
